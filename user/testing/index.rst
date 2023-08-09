@@ -48,3 +48,4 @@ extension.
    simulation
    gdb-jtag
    tftp
+   renode
